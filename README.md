@@ -2,6 +2,12 @@
 Classifying an audio signal using Neural Networks and Manifold Learning.
 The main idea is to be able to classify the audio signal to some defined groups. We can use a genre as the group that describes songs that have something similar with each other.
 
+Final results here:  
+[Colab Notebook](https://colab.research.google.com/drive/1gn1moq-1yPKuBFXvRjBYIoA2lf94vlQp) or you can look through
+[the code in GitHub](mm_public.ipynb).
+This notebook contains the summary of the analyzing and implements learning on the combination of two datasets FMA and GTZAN.  
+More info about different approaches I tried you can find below.
+
 Main project info:
 [Colab Notebook](https://colab.research.google.com/drive/1bW5Cc0u95hUsf-ZLNq3Uqw6AtDFSjQri) or you can look through
 [the code in GitHub](mm.ipynb).
